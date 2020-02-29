@@ -9,3 +9,4 @@
 | 3:00 PM | 4:15 PM | Compiled current website images and cropped old ugly image borders. Created DropBox to share files with client. |
 | 4:15 PM | 4:25 PM | Documented tasks on Trello |
 | 4:25 PM | 4:50 PM | Phone call with client's staff member regarding business logo |
+| 4:50 PM | 5:00 PM | Add todo list to Trello for next tasks |
